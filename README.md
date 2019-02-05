@@ -77,3 +77,33 @@ Permission is hereby granted, free of charge, to any person obtaining a copy of 
 The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.
 
 THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
+
+
+
+
+## news-Highlights.
+### By [Henry Halkano]
+
+### Application Release Date:
+      05/02/2019.
+
+### Description:
+News Highlights is a web application that displays a list of various news sources like BBC and CNN. On choosing a news source, it will preview the top news articles of the day. Clicking a news article will redirect the user to read it fully from the news source. It achieves this by using the News API.
+### BDD:
+#### This app is therefore expected to work as following:
+| Behavior | Expectation|
+|----------|:-------------:|
+|On clicking the run button |Rolls the dice and outputs the game round |
+|On clicking the hold button |Doubles the scores for the player |
+|If the roll is 1 |The other player is expected to take over the game |
+
+### Installation requirements:
+* Web browser
+* Internet connection
+Offline copy available if you fork and save in your computer as a file
+
+### LICENCE:
+This Application is license under the MIT licence.
+Get more info on my github account
+
+Copyright © 2018; Halkano.Inc.
