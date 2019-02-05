@@ -93,7 +93,7 @@ News Highlights is a web application that displays a list of various news source
 #### This app is therefore expected to work as following:
 | Behavior | Expectation|
 |----------|:-------------:|
-|On clicking the run button |Rolls the dice and outputs the game round |
+|On clicking the news source button on the page | load	List of various news sources is displayed in a list |
 |On clicking the hold button |Doubles the scores for the player |
 |If the roll is 1 |The other player is expected to take over the game |
 
