@@ -94,7 +94,7 @@ News Highlights is a web application that displays a list of various news source
 | Behavior | Expectation|
 |----------|:-------------:|
 |On clicking the news source button on the page | load	List of various news sources is displayed in a list |
-|On clicking the hold button |Doubles the scores for the player |
+|On clicking the tab link |display tabs with news by category |
 |If the roll is 1 |The other player is expected to take over the game |
 
 ### Installation requirements:
