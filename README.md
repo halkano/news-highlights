@@ -1,19 +1,6 @@
 
 
-  To be able to gather article info from the News API you will need an API Key.
-
-  * Visit https://newsapi.org/ and register for an API key.
-  * In the root directory of the project folder create a file: start.sh
-  * Insert the following info into it:
-
-          export NEWS_API_KEY='<Your-Api-Key>'
-          python3.6 manage.py server
-
-  * Insert the API Key you received from News Api where <Your-Api-Key> is.
-To run the application, in your terminal:
-
-
-Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:
+  , to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:
 
 The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.
 
