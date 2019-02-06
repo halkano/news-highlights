@@ -6,12 +6,6 @@ from ..models import Source,Article
 
 
 
-@main.route('/')
-def index():
-    '''
-    View root page function that returns the index page and its data
-    '''
-    sources= get_sources('general')
 
 
     title = 'Home - TOP NEWS SOURCES'
