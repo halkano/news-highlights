@@ -17,8 +17,7 @@ def index():
     title = 'Home - TOP NEWS SOURCES'
     return render_template('index.html', title = title,sources= sources)
 
-@main.route('/articles')
-def articles():
+
     '''
     View  page function that returns the article1 page and its data
     '''
