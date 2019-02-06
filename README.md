@@ -60,18 +60,7 @@ Setting up the API Key
   * Insert the API Key you received from News Api where <Your-Api-Key> is.
 To run the application, in your terminal:
 
-  $ chmod +x start.sh
-  $ ./start.sh
-Testing the Application
-To run the tests for the class files:
-
-  $ python3.6 manage.py tests
-Technologies Used
-Python3.6
-Flask
-License
-Copyright (c) 2018 Halkano
-
+  
 Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:
 
 The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.
@@ -107,7 +96,7 @@ virtualenv
 Cloning
 In your terminal:
 
-  $ git clone https://github.com/halkano/NewsApi/
+  $ git clone https://github.com/halkano/news-highlights/
   $ cd News-Highlights
 Running the Application
 Creating the virtual environment
@@ -145,6 +134,7 @@ Python3.6
 Flask
 License
 Copyright (c) 2018 Halkano
+
 ### LICENCE:
 This Application is license under the MIT licence.
 Get more info on my github account
