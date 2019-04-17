@@ -1,16 +1,36 @@
 {% extends 'base.html'%}
+{% import 'macros.html' as macro %}
 
+{% block content%}
+<div class="container">
+    <!-- Business News Section  -->
+    <h3> Top Business News Sources</h3>
+    <hr>
 
+    {{ macro.displaySourceList(sources)}}
 
- {% block content%}
- <ul>
-    {% for source in sources %}
-      <li>{{source.name}}</li>
+    <!-- Business News Section  -->
 
+    <h3> Top Technology News Sources</h3>
+    <hr>
 
-    {% endfor %}
+    {{ macro.displaySourceList(technology_sources)}}
 
-</ul>
+    <!-- Entertainment News Section  -->
+
+    <h3> Top Entertainment News Sources</h3>
+    <hr>
+
+    {{ macro.displaySourceList(entertainment_sources)}}
+
+    <!-- Entertainment News Section  -->
+
+    <h3> Top Sports News Sources</h3>
+    <hr>
+
+    {{ macro.displaySourceList(sports_sources)}}
+
+</div>
 
 
 {%endblock%}

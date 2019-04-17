@@ -1,5 +1,5 @@
 ## news-Highlights.
-### By [Henry Halkano]
+### By Henry Halkano
 
 ### Application Release Date:
       05/02/2019.
@@ -14,9 +14,8 @@ You can view the site at:Heroku
 | Behavior | Expectation|
 |----------|:-------------:|
 |on clicking ARTICLE tab |displays an entire article or 	Redirected to the news source's site|
-|On clicking the news source button |the page load	List of various news sources is displayed in a list |
-|On clicking the tab link |display tabs with news by category |
-|on clicking news source |Display articles or	Redirected to a page with articles from the source |
+|On clicking the News-highlights tab |the page load	List of various news sources is displayed in a list |
+
 
 
 ### Setup /Installation requirements:
